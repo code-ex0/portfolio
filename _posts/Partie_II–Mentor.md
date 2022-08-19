@@ -9,4 +9,4 @@ keywords:
 - Fluff
 ---
 
-![Untitled](Partie%20II%20%E2%80%93%20Mentor%203fb30053439b44e681eb2de37dc64bce/Untitled.png)
+![Untitled](/public/Partie%20II%20%E2%80%93%20Mentor%203fb30053439b44e681eb2de37dc64bce/Untitled.png)
