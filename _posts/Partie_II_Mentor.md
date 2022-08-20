@@ -9,4 +9,4 @@ keywords:
 - Fluff
 ---
 
-![Untitled](/public/Partie2/Untitled.png)
+![Untitled](/Partie2/Untitled.png)

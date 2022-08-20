@@ -9,7 +9,7 @@ keywords:
   - Fluff
 ---
 
-![Untitled](/public/Presentation/Untitled.png)
+![Untitled](/Presentation/Untitled.png)
 
 j’ai realise mon stage au sein de Toulouse YNOV Campus, c’est une ecole des formation du numerique dans de nombreux domaine (Informatique, Audio visuelle, Marketing et communiquetion, animation et creation et design)
 

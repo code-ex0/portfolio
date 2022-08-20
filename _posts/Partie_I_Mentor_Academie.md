@@ -49,7 +49,7 @@ Afin de questionner de façon efficace, plusieurs règles sont à respecter:
 - **Ne pas anticiper la réponse** et comprendre vraiment ce que vit / ressent la personne
 - Eviter l’effet **interrogatoire**
 
-![*L’équipe Mentors Ynov (2021-2022)*](/public/Partie1/Untitled.png)
+![*L’équipe Mentors Ynov (2021-2022)*](/Partie1/Untitled.png)
 
 *L’équipe Mentors Ynov (2021-2022)*
 
