@@ -9,7 +9,7 @@ keywords:
   - Fluff
 ---
 
-![Untitled](/public/Pre%CC%81sentation%20de%20l%E2%80%99entreprise%20-%20Toulouse%20Ynov%20camp%20bd5de4ce6ad2457898dbe81428afdca2/Untitled.png)
+![Untitled](/public/Presentation/Untitled.png)
 
 j’ai realise mon stage au sein de Toulouse YNOV Campus, c’est une ecole des formation du numerique dans de nombreux domaine (Informatique, Audio visuelle, Marketing et communiquetion, animation et creation et design)
 

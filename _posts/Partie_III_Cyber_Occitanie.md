@@ -11,7 +11,7 @@ keywords:
 
 au cour de mon dernier mois de stage, j’ai pue aider Mr Mathieu gandon notre responsable pedagogique a aller a la recherche d’intervenant en reseaux et cyber securite a un evenement organiser par la region ou se son reuni de grand groupe telle que (orange, capgeninie, atos, ext …).
 
-![Untitled](/public/Partie%20III%20%E2%80%93%20Cyber%20Occitanie%204ba4c78cb2b442239107587592a42385/Untitled.png)
+![Untitled](/public/Partie3/Untitled.png)
 
 [](https://www.cybersecurite-grandsud.fr/CyberSecurite2022/)
 
