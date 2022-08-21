@@ -13,7 +13,7 @@ keywords:
 
 ![[https://www.cybersecurite-grandsud.fr/CyberSecurite2022/](https://www.cybersecurite-grandsud.fr/CyberSecurite2022/)](/_posts/Partie3/Untitled.png)
 
-[https://www.cybersecurite-grandsud.fr/CyberSecurite2022/](https://www.cybersecurite-grandsud.fr/CyberSecurite2022/)
+*[https://www.cybersecurite-grandsud.fr/CyberSecurite2022/](https://www.cybersecurite-grandsud.fr/CyberSecurite2022/)*
 
 Au cours de mon dernier mois de stage, j'ai pu aider monsieur Mathieu Gandon, notre responsable pédagogique à aller à la recherche d'intervenants en réseaux et cyber-sécurité, à un évènement organisé par la région où se sont réunis de grands groupes tels que (Orange, Capgemini, Atos, ...).
 
