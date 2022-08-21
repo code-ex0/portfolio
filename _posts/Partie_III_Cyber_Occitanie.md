@@ -2,7 +2,7 @@
 layout: ../../layouts/blog-post.astro
 title: Partie III – Cyber Occitanie
 description: yea
-thumbnail: hello-world.png
+thumbnail: cyber-security.png
 draft: false
 date: 07-25-2022
 keywords:

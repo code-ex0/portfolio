@@ -2,7 +2,7 @@
 layout: ../../layouts/blog-post.astro
 title: Partie II – Mentor
 description: yea
-thumbnail: hello-world.png
+thumbnail: mentor.png
 draft: false
 date: 07-25-2022
 keywords:

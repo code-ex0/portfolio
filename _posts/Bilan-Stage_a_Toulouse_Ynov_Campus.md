@@ -2,7 +2,7 @@
 layout: ../../layouts/blog-post.astro
 title: Bilan - Stage a Toulouse Ynov Campus
 description: yea
-thumbnail: hello-world.png
+thumbnail: bilan-stage.png
 draft: false
 date: 07-25-2022
 keywords:

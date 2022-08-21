@@ -2,7 +2,7 @@
 layout: ../../layouts/blog-post.astro
 title: Partie I – Mentor Academie
 description: yea
-thumbnail: hello-world.png
+thumbnail: mentors-academie.png
 draft: false
 date: 07-25-2022
 keywords:

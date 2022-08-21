@@ -2,7 +2,7 @@
 layout: ../../layouts/blog-post.astro
 title: Présentation de l’entreprise - Toulouse Ynov camp
 description: yea
-thumbnail: hello-world.png
+thumbnail: debut-stage.png
 draft: false
 date: 07-25-2022
 keywords:
