@@ -6,7 +6,9 @@ thumbnail: mentor.png
 draft: false
 date: 07-25-2022
 keywords:
-- Fluff
+- Stage
+- Ynov
+- Mentor
 ---
 
 ### **Mission I – Introduction au Golang**

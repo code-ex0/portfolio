@@ -6,7 +6,8 @@ thumbnail: debut-stage.png
 draft: false
 date: 07-25-2022
 keywords:
-  - Fluff
+  - Stage
+  - Ynov
 ---
 
 ![Untitled](/Presentation/Untitled.png)

@@ -6,7 +6,9 @@ thumbnail: bilan-stage.png
 draft: false
 date: 07-25-2022
 keywords:
-- Fluff
+- Stage
+- Ynov
+- Bilan
 ---
 
 Je tiens à remercier Toulouse Ynov Campus de m’avoir accueilli pendant ces 4 mois de stage au sein de leur équipe. Ce stage m’a permis de m’améliorer sur beaucoup de points, tant sur des aspets théoriques que pratiques. Je tiens à remercier particulièrement M. Antoine ROQUES pour m’avoir accompagné et guidé tout au long de ce stage.

@@ -6,7 +6,9 @@ thumbnail: mentors-academie.png
 draft: false
 date: 07-25-2022
 keywords:
-- Fluff
+- Stage
+- Ynov
+- Formation
 ---
 
 Durant le premier mois de mon stage j’ai participé avec 30 autres étudiant de différents campus YNOV a une période de formation nommée la Mentors Académie et cela afin de nous préparer à notre nouveau rôle de mentor. Cette période de formation avait pour but de nous enseigner les différents aspects de notre rôle de mentor, comment accompagner au mieux les étudiants dans leur montée en compétence. Mais aussi, comment utiliser l’outil de ytrack, plateforme de formation que les b1 utiliseront pendant plus de la moitié de leur cursus sur leurs premières années.
