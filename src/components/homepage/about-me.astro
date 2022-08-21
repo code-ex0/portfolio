@@ -8,6 +8,7 @@ import {
 import IconLink from "../ui/icon-link.astro";
 import Typescript from "../ui/missing-icons/typescript.astro";
 import VSCode from "../ui/missing-icons/vscode.astro";
+import Rust from "../ui/missing-icons/rust.astro";
 ---
 
 <div class="flex flex-col gap-4 md:flex-row">
@@ -15,8 +16,7 @@ import VSCode from "../ui/missing-icons/vscode.astro";
   />
   <div class="max-w-prose">
     <p>👨🏻 Mentor senior a toulouse Ynov Campus</p>
-    <p class="mb-4">In 😍 with all things web</p>
-    <p>I build stuff using these tools:</p>
+    <p>J'utilise ces outils pour développer :</p>
     <div class="mt-2 mb-3 grid grid-cols-2 gap-2">
       <IconLink
         class={[
@@ -27,11 +27,10 @@ import VSCode from "../ui/missing-icons/vscode.astro";
           "hover:text-white",
           "focus:text-white",
         ].join(" ")}
-        href="https://www.typescriptlang.org/"
-        text="TypeScript"
+        href="https://en.wikipedia.org/wiki/C%2B%2B"
+        text="C / C++"
         blank
       >
-        <Typescript class="h-4 w-4 border border-white" />
       </IconLink>
       <IconLink
         class={[
@@ -43,28 +42,10 @@ import VSCode from "../ui/missing-icons/vscode.astro";
           "focus:text-white",
         ].join(" ")}
         href="https://nextjs.org/"
-        text="Next.js"
+        text="Rust"
         blank
       >
-        <BrandNextjs className="h-4 w-4" />
-      </IconLink>
-      <IconLink
-        class={[
-          "group",
-          "hover:border-[#36bdf9]",
-          "hover:bg-[#36bdf9]",
-          "focus:border-[#36bdf9]",
-          "focus:bg-[#36bdf9]",
-          "hover:text-white",
-          "focus:text-white",
-        ].join(" ")}
-        href="https://tailwindcss.com/"
-        text="Tailwind"
-        blank
-      >
-        <BrandTailwind
-          className="h-4 w-4 text-[#36bdf9] transition-colors group-hover:text-white"
-        />
+        <Rust class="h-4 w-4"  border border-white/>
       </IconLink>
       <IconLink
         class={[
@@ -75,18 +56,17 @@ import VSCode from "../ui/missing-icons/vscode.astro";
           "hover:text-[#1e9cf0]",
           "focus:text-[#1e9cf0]",
         ].join(" ")}
-        href="https://code.visualstudio.com/"
-        text="VSCode"
+        href="https://www.jetbrains.com/clion/"
+        text="CLion"
         blank
       >
-        <VSCode class="h-4 w-4" />
       </IconLink>
     </div>
     <p>
-      If you want more details, you can{" "}
+      si vous voulez en savoir plus vous pouvez{" "}
       <IconLink
-        text="read my CV"
-        href="#"
+        text="lire mon CV"
+        href="/cv_Louis_SASSE.pdf"
         class="translate-y-1.5 hover:border-zinc-500 focus:border-zinc-500"
         blank
       >
@@ -94,10 +74,10 @@ import VSCode from "../ui/missing-icons/vscode.astro";
       </IconLink>
     </p>
     <p>
-      Alternatively, you can{" "}
+      sinon, vous pouvez{" "}
       <IconLink
-        text="send me an email"
-        href="mailto:hi@louis.sasse@protonmail.com?subject=subject"
+        text="m'envoyer moi un email"
+        href="mailto:louis.sasse@protonmail.com"
         class="translate-y-1.5 hover:border-zinc-500 focus:border-zinc-500"
       >
         <At className="w-4" />
